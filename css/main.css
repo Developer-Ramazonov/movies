@@ -1,0 +1,9 @@
+.column_elem{
+    position: relative;
+}
+
+.year_elem{
+    position: absolute;
+    right: 20%;
+    bottom: 15%;
+}
